@@ -15,4 +15,9 @@ Caveats
 -------
 Github uses Github Flavored Markdown (GFM). The included markdown.js does not contain the GFM extensions. Thus, you might see slight differences when rendered on Github.
 
-
+See Also
+--------
++ https://www.npmjs.org/package/markdown-preview
++ https://www.npmjs.org/package/downtown
++ https://github.com/pyrocat101/moo
++ https://www.npmjs.org/package/walkthrough
